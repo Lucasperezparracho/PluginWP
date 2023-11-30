@@ -12,7 +12,6 @@ Version: 1.0.0
 Author URI: http://ma.tt/
 */
 
-# list of offensive words
 $offensiveWordsList = [
     'puta',
     'puto',
